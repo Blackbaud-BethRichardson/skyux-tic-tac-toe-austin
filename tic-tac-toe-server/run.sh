@@ -1,2 +1,2 @@
 #!/bin/bash
-tsc && node app.js || echo "BAD!"
+tsc && node app.js || echo "SAD!"
